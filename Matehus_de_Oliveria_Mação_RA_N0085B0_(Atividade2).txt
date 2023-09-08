@@ -1,0 +1,41 @@
+# unipADS2023_2
+Repositorio de trabalhos unip ADS 2023
+
+
+As tags no HTML5 desempenham um papel fundamental na estruturação e apresentação de conteúdo na web.
+Eles são elementos marcados que definem como o conteúdo deve ser exibido e interagido pelos navegadores. 
+O HTML5 suporta várias tags novas, além de aprimoradas as existentes, para oferecer maior semântica,
+acessibilidade e funcionalidade ao desenvolvimento web.
+
+Estrutura Básica : A estrutura básica de um documento HTML5 é definida pelas tags <html>, <head>e <body>.
+Uma tag <html>engloba todo o conteúdo, enquanto uma tag <head>contém informações como título, metadados 
+e links para arquivos externos. A tag <body>abriga o conteúdo visível na página.
+
+Semântica : Uma das principais inovações do HTML5 é a ênfase na semântica, permitindo que os desenvolvedores 
+atribuam significados específicos aos elementos. Algumas tags semânticas notáveis ​​são:
+
+<header>: Representa o cabeçalho da página ou de uma seção.
+<nav>: Indica uma seção de navegação.
+<article>: Defina um conteúdo independente, como uma postagem de blog.
+<section>: Delimita seções temáticas.
+<aside>: Utilizado para conteúdo relacionado, como barras laterais.
+<footer>: Marca o rodapé da página ou de uma seção.
+Multimídia : Tags como <audio>e <video>permitem a incorporação de conteúdo de áudio e vídeo diretamente nas páginas, 
+sem depender de plugins externos. Isso proporciona uma experiência mais integrada e acessível aos usuários.
+
+Formulários Aprimorados : Como tags de formulário, como <input>, <textarea>, <select>,
+<label>e <button>, foram aprimorados no HTML5 para incluir tipos específicos de entrada,
+validações e recursos avançados, como campos de dados e hora.
+
+Canvas e SVG : O elemento <canvas>permite a criação de gráficos e animações programáticas por meio de JavaScript.
+Além disso, o SVG (Scalable Vector Graphics) é suportado nativamente no HTML5, permitindo a criação de gráficos 
+vetoriais escaláveis.
+
+Elementos de Cabeçalho : Tags como <h1>, <h2>, <h3>até <h6>representam diferentes níveis de cabeçalhos, ajudando 
+a estruturar o conteúdo e melhorar a acessibilidade.
+
+Referências de Pesquisa:
+Documentação da MDN Web Docs sobre HTML5: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+W3Schools - Tutorial sobre HTML5: https://www.w3schools.com/html/
+HTML Living Standard: https://html.spec.whatwg.org/multipage/
+SitePoint - HTML5: https://www.sitepoint.com/html5/

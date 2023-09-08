@@ -1,0 +1,34 @@
+# unipADS2023_2
+Repositorio de trabalhos unip ADS 2023
+
+O HTML5 representa a quinta geração da linguagem de marcação utilizada para estruturar e apresentar o conteúdo na web. Foi concebido com a finalidade de aprimorada a experiência do usuário,
+apresentando novas funcionalidades, uma semântica aperfeiçoada e facilitando a criação de aplicações web interativas. Neste contexto, são destacados alguns dos principais aspectos do HTML5.
+
+O HTML, que atua como espinha dorsal da grande parte das páginas da internet, é interpretado pelos navegadores para exibir o conteúdo visual presente nas páginas da web.
+Sua estrutura se baseia no conceito de hipertexto, em quais elementos diversos, como palavras, imagens, vídeos, áudio e documentos, se entrelaçam por conexões, criando uma 
+extensa rede informacional. A conexão inerente ao hipertexto possibilita uma forma segura de comunicar dados, organizando conhecimentos e arquivando informações correlatas.
+
+Os navegadores, ou motores de navegador, desempenham o papel de interpretar e apresentar as páginas web aos usuários. 
+Cada navegador opera por meio de um mecanismo específico para decodificar e renderizar o código HTML, CSS e JavaScript das páginas. 
+A seguir, estão destacados alguns dos principais navegadores, assim como seus respectivos motores de navegação.
+
+ - Google Chrome: Utilização do motor Blink.
+ - Mozilla Firefox: Emprega o motor Gecko.
+ - Microsoft Edge: Adota o motor Blink.
+ - Safari: Baseia-se no motor WebKit.
+
+Cada motor de navegador possui suas próprias particularidades, otimizações e abordagens de renderização. Isso pode resultar em discrepâncias sutis na forma como as páginas da web que usam HTML5
+e outros padrões modernos são exibidas. Dessa maneira, é crucial ponderar sobre a compatibilidade em diversos navegadores e proceder a testes abrangentes, visando garantir uma experiência uniforme 
+para os usuários.
+
+Tais discrepâncias podem conduzir a disparidades de comportamento entre os navegadores, seja na exibição de páginas HTML5 ou na execução de funcionalidades específicas, como animações ou APIs. 
+Como medida para atenuar essas divergências e estabelecer uma experiência coesa aos usuários, os desenvolvedores frequentemente precisam submeter seus sites a testes minuciosos e ajustes, a fim 
+de assegurar que tudo funcione de maneira apropriada em uma variedade de navegadores.
+
+É relevante mencionar que, à medida que novas versões de navegadores são lançadas, o suporte e a implementação do HTML5 tendem a evoluir, atendendo às disparidades entre eles. Nesse sentido,
+é recomendável consultar os documentos e as atualizações dos navegadores para obter insights detalhados sobre o suporte específico ao HTML5 em cada plataforma.
+
+Referências:
+https://www.devmedia.com.br/o-que-e-o-html5/25820
+Hickson, I. & Watt, D. (2016). "HTML5: Técnicas para Desenvolvedores Web." Wrox.
+Duckett, J. (2016). "HTML e CSS: Projetar e Construir Sites." John Wiley & Filhos.
